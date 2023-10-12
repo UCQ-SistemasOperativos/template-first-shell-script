@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "Carter",
+      "setup": "",
+      "run": "./my_command.sh Carter",
+      "input": "",
+      "output": "11,Carter Hall,\"Harvard University, USA\",MBA,International Business,3rd,IB,50,47,97,12,0.927152318\r\n47,Ethan Carter,\"Harvard University, USA\",B.Com,Business Analytics,5th,BA,46,41,87,48,0.688741722\r\n63,Emily Carter,\"Harvard University, USA\",B.Com,Business Analytics,5th,BA,40,39,79,64,0.582781457\r\n64,Carter Hall,\"Harvard University, USA\",Intg. BBA+MBA,International Business,3rd,IB,40,39,79,65,0.57615894\r\n114,Sophia Carter,\"Harvard University, USA\",MBA,International Business,3rd,IB,36,25,61,115,0.245033113\r\n129,Carter Wood,\"Harvard University, USA\",MBA,International Business,3rd,IB,26,18,44,130,0.145695364",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Emily",
+      "setup": "",
+      "run": "./my_command.sh Emily",
+      "input": "",
+      "output": "39,Emily Williams,\"Harvard University, USA\",B.Com,Information Technology with Accounting Analytics,5th,BA,46,43,89,40,0.741721854\r\n63,Emily Carter,\"Harvard University, USA\",B.Com,Business Analytics,5th,BA,40,39,79,64,0.582781457\r\n123,Emily Moore,\"Stanford University, USA\",BBA,Finance,5th,Finance,32,22,54,124,0.185430464\r\n150,Emily Lee,\"Massachusetts Institute of Technology (MIT), USA\",BBA,Digital Marketing,5th,DM,4,1,5,151,0.006622517",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "William",
+      "setup": "",
+      "run": "./my_command.sh William",
+      "input": "",
+      "output": "16,William Walker,\"University of Cambridge, UK\",MBA,Information Technology with Accounting Analytics,5th,BA,48,47,95,17,0.894039735\r\n39,Emily Williams,\"Harvard University, USA\",B.Com,Information Technology with Accounting Analytics,5th,BA,46,43,89,40,0.741721854\r\n62,William Rodriguez,\"Stanford University, USA\",BBA,International Business,5th,IB,40,40,80,63,0.589403974\r\n79,Chloe Williams,\"Stanford University, USA\",BBA,International Business,5th,Generic,42,31,73,80,0.476821192\r\n102,William Richardson,\"California Institute of Technology (Caltech), USA\",BBA,Brand Management,5th,Generic,33,33,66,103,0.324503311\r\n118,Elijah Williams,\"Stanford University, USA\",BBA,International Business,5th,IB,26,32,58,119,0.218543046",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "George",
+      "setup": "",
+      "run": "./my_command.sh Samuel",
+      "input": "",
+      "output": "38,Samuel Phillips,\"Harvard University, USA\",B.Com,Business Analytics,5th,BA,46,43,89,39,0.748344371\n61,Samuel Scott,\"Harvard University, USA\",B.Com,Financial Services,5th,Finance,42,38,80,62,0.59602649\n149,Samuel Perez,\"Stanford University, USA\",BBA,International Business,5th,IB,12,8,20,150,0.013245033",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Daniel",
+      "setup": "",
+      "run": "./my_command.sh Daniel",
+      "input": "",
+      "output": "32,Daniel Adams,\"University of Oxford, UK\",Intg. BBA+MBA,Financial Services,9th,Finance,47,43,90,33,0.78807947\r\n88,Daniel Brown,\"University of Oxford, UK\",Intg. BBA+MBA,Financial Services,9th,Finance,37,35,72,89,0.417218543\r\n132,Daniel Lee,\"Stanford University, USA\",BBA,International Business,5th,IB,29,11,40,133,0.125827815",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
