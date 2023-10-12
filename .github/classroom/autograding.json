@@ -31,7 +31,7 @@
       "points": 20
     },
     {
-      "name": "George",
+      "name": "Samuel",
       "setup": "",
       "run": "./my_command.sh Samuel",
       "input": "",
@@ -48,7 +48,7 @@
       "output": "32,Daniel Adams,\"University of Oxford, UK\",Intg. BBA+MBA,Financial Services,9th,Finance,47,43,90,33,0.78807947\r\n88,Daniel Brown,\"University of Oxford, UK\",Intg. BBA+MBA,Financial Services,9th,Finance,37,35,72,89,0.417218543\r\n132,Daniel Lee,\"Stanford University, USA\",BBA,International Business,5th,IB,29,11,40,133,0.125827815",
       "comparison": "exact",
       "timeout": 10,
-      "points": null
+      "points": 20
     }
   ]
 }
