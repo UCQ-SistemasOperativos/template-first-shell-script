@@ -4,7 +4,6 @@ Dentro de este repositorio encontraras los siguientes archivos:
 
 - `my_command.sh` que sera donde realizaras tu ejercicio 
 - `Dockerfile` por si tienen curiosidad es el responsaable de correr el script que vas a realizar
-- ``
 
 ## Para ejecutar tu script
 Asegurate de las siguientes cosas 
@@ -32,3 +31,10 @@ En el Docker file ya esta listo para recibir el parametro "Carter", la salida de
 similar a lo que se muestra abajo
 
 ![img.png](imgs/img2.png)
+
+Cuando subas tu solucion al repositorio, se correran las pruebas correspondientes que podras ver 
+debntro de la seccion `Actions` y se ve similar al siguiente:
+
+![img.png](imgs/img3.png)
+
+**Recuerda que solo el codigo que se encuentre en main sera el que se tome en cuenta**
